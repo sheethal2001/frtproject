@@ -35,3 +35,18 @@ home page is the landing page of the mental app
 
 ![Screenshot (12)](https://user-images.githubusercontent.com/109460266/182088708-00be0631-48b4-47b3-9a61-4d55b2af252c.png)
 
+ABOUT PAGE
+
+![Screenshot (13)](https://user-images.githubusercontent.com/109460266/182090885-07915957-1867-4b21-9a79-e0b24f279c41.png)
+![Screenshot (14)](https://user-images.githubusercontent.com/109460266/182090629-aa48dc86-ffb4-49c6-b7b5-9676e6fefae6.png)
+![Screenshot (15)](https://user-images.githubusercontent.com/109460266/182090636-d3d0860a-0c8a-4ccf-b46d-1ce5415381f8.png)
+![Screenshot (16)](https://user-images.githubusercontent.com/109460266/182090643-d61232dd-2838-46b5-97c7-5d11bbaf6bfe.png)
+![Screenshot (17)](https://user-images.githubusercontent.com/109460266/182090648-2bc8adca-0473-476f-80f5-a60ad17d8f4c.png)
+![Screenshot (18)](https://user-images.githubusercontent.com/109460266/182090669-65719e16-6ccb-478f-851a-22e566f81dd6.png)
+![Screenshot (19)](https://user-images.githubusercontent.com/109460266/182090671-fcadd245-8485-4412-ace7-b876592744d9.png)
+![Screenshot (21)](https://user-images.githubusercontent.com/109460266/182090675-bb1998d4-6846-43ba-9b61-25454d4a636d.png)
+
+
+
+
+
