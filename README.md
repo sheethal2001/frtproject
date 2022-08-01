@@ -46,6 +46,23 @@ ABOUT PAGE
 ![Screenshot (19)](https://user-images.githubusercontent.com/109460266/182090671-fcadd245-8485-4412-ace7-b876592744d9.png)
 ![Screenshot (21)](https://user-images.githubusercontent.com/109460266/182090675-bb1998d4-6846-43ba-9b61-25454d4a636d.png)
 
+DEPARTMENT PAGE
+
+![Screenshot (22)](https://user-images.githubusercontent.com/109460266/182091418-03486667-509d-4861-9022-32a0fc8ed8ad.png)
+![Screenshot (23)](https://user-images.githubusercontent.com/109460266/182091425-ba71127e-0466-49d8-8f03-1cca701d69b2.png)
+![Screenshot (24)](https://user-images.githubusercontent.com/109460266/182091432-af1b8bfe-9fda-4d94-b253-0cc686994635.png)
+![Screenshot (25)](https://user-images.githubusercontent.com/109460266/182091440-9906a93e-a0d5-4729-915c-7fe6803a78fd.png)
+
+CONTACT PAGE
+
+![Screenshot (26)](https://user-images.githubusercontent.com/109460266/182091768-b7b0db6e-1821-450e-b26a-416492f87329.png)
+![Screenshot (27)](https://user-images.githubusercontent.com/109460266/182091776-ed0f17d7-c796-4e48-a623-b64c9c284ced.png)
+![Screenshot (28)](https://user-images.githubusercontent.com/109460266/182091781-83aff8ab-8f60-4dd7-b65d-83e5de85af79.png)
+![Screenshot (29)](https://user-images.githubusercontent.com/109460266/182091791-89865a28-adc0-4b42-a98c-5af8bc37deb7.png)
+
+
+
+
 
 
 
