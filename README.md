@@ -6,6 +6,15 @@ the github pages link is https://sheethal2001.github.io/frtproject/
 
 page descriptions and the screeshots for the same are as follows:
 
+It is a mental health appn this era of pandemic, were we are getting used to the new normal of living , video conferencing apps are in top priority. I intend to develop my website ,keeping the need of hour in mind ,having a vision to make appointments and interactions friendlier, trustworthy and comfortable .
+
+Project Description:
+Children go through may changes(physical ,mental and emotional) some may feel difficult to adapt with these changes ending up in anxiety and depression. Our website avails of all kinds of detailing ,the interface will be developed to become user friendly by making use of searching, sorting, filtering tool to surf through the available options and get the best experience.you can choose your services 
+yoga : very well trained doctors to guide through the entire course 
+medication : expert to find the real problem with the help of well maintained lab fecility
+therapy : peace of mind and exercise to body.
+we help to provide the best services with the help of features supported by microsoft azure which helped to create more user friendly and interactive interfaces
+hosting in microsoft azure was one of the best thing.
 
 HOME PAGE
 
