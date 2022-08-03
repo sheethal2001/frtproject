@@ -2,7 +2,7 @@ this repository holds the mental app which is hosted using the static web app fe
 
 the azure link for the same is https://gentle-pond-07b87ec00.1.azurestaticapps.net/
 
-the github pages link is https://sheethal2001.github.io/frtproject/
+the github pages link is https://github.com/sheethal2001/frtproject.git
 
 page descriptions and the screeshots for the same are as follows:
 
